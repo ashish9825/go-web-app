@@ -6,7 +6,7 @@ image:
   repository: ashish2004121/go-web-app
   pullPolicy: IfNotPresent
   
-  tag: "14440001712"
+  tag: "14441028353"
 
 ingress:
   enabled: false
